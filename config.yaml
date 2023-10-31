@@ -1,0 +1,13 @@
+
+path: /Users/sujith/PycharmProjects/BallTracking/processed_data  # dataset root dir
+train: images/train  # train images (relative to 'path')
+test: images/test  # test images (relative to 'path')
+val: images/valid  # val images (relative to 'path')
+
+# Classes
+names:
+  0: null
+  1: person
+  2: person-back
+  3: person-front
+  4: tennis-ball
