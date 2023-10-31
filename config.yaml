@@ -1,5 +1,5 @@
 
-path: /Users/sujith/PycharmProjects/BallTracking/processed_data  # dataset root dir
+path: /Users/sujith/Desktop/processed_data  # dataset root dir
 train: images/train  # train images (relative to 'path')
 test: images/test  # test images (relative to 'path')
 val: images/valid  # val images (relative to 'path')
