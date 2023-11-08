@@ -1,6 +1,6 @@
 import cv2
 import numpy as np
-
+# saketh github practice
 def contoursDetection(image):
     # Load the image
     #cv2.imshow("Original Image", image)
