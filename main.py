@@ -64,7 +64,6 @@ def process_file(file_path, roboflow_api_key):
     creates a new annotated video. The function also handles cleanup of temporary files after
     processing. Unsupported file formats will result in a printed message indicating the limitation.
     """
-    print("In process file", file_path)
     original_format = None
     rf = Roboflow(api_key=roboflow_api_key)
     project = rf.workspace().project('tennis-tracker-duufq')
