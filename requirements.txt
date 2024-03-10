@@ -9,7 +9,7 @@ beautifulsoup4 @ file:///private/var/folders/nz/j6p8yfhx1mv_0grj5xl4650h0000gp/T
 bleach @ file:///opt/conda/conda-bld/bleach_1641577558959/work
 Bottleneck @ file:///Users/cbousseau/work/recipes/ci_py311/bottleneck_1677925122241/work
 Brotli @ file:///Users/cbousseau/work/recipes/ci_py311/brotli-split_1677936346777/work
-certifi==2022.12.7
+certifi==2023.7.22
 cffi @ file:///Users/cbousseau/work/recipes/ci_py311/cffi_1677903595907/work
 chardet==4.0.0
 charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
