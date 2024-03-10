@@ -6,12 +6,12 @@ This project provides a comprehensive solution for tracking tennis balls and pla
 
 - **Image Processing**: 
   - Apply bilateral filtering to reduce noise while preserving edges.
-  - Annotate images with bounding boxes around tennis players and tennis balls using YOLOv5.
+  - Annotate images with bounding boxes around tennis players and tennis balls using YOLOv8.
   - Sharpen annotated images for enhanced visual clarity.
 
 - **Video Processing**: 
   - Compress videos using a lossless two-pass encoding algorithm supported by FFmpeg.
-  - Extract frames, apply bilateral filtering, and annotate using YOLOv5.
+  - Extract frames, apply bilateral filtering, and annotate using YOLOv8.
   - Perform speed calculations for the tennis ball.
   - Interpolate positions for frames where the tennis ball is not detected.
   - Annotate frames with the calculated speed and recombine them into a video.
